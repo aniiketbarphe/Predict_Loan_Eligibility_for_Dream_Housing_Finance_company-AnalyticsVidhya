@@ -8,6 +8,7 @@ Company wants to automate the loan eligibility process (real time) based on cust
 
 
 Data Dictionary
+
 Train file: CSV containing the customers for whom loan eligibility is known as 'Loan_Status'
 
 ![IMG1](https://user-images.githubusercontent.com/84449238/174618243-e46878b9-d18c-423b-b874-2918933b9a4d.JPG)
@@ -16,23 +17,10 @@ Train file: CSV containing the customers for whom loan eligibility is known as '
 
 Test file: CSV containing the customer information for whom loan eligibility is to be predicted
 
-Variable	Description
-Loan_ID	Unique Loan ID
-Gender	Male/ Female
-Married	Applicant married (Y/N)
-Dependents	Number of dependents
-Education	Applicant Education (Graduate/ Under Graduate)
-Self_Employed	Self employed (Y/N)
-ApplicantIncome	Applicant income
-CoapplicantIncome	Coapplicant income
-LoanAmount	Loan amount in thousands
-Loan_Amount_Term	Term of loan in months
-Credit_History	credit history meets guidelines
-Property_Area	Urban/ Semi Urban/ Rural
+![IMG2](https://user-images.githubusercontent.com/84449238/174618701-c56f36ad-e1a6-4480-9609-85b19f0c97b6.JPG)
+
 
 
 Submission file format
+![IMG3](https://user-images.githubusercontent.com/84449238/174618748-5e0b8a51-1269-4e96-9b3f-363f1ebf1241.JPG)
 
-Variable	Description
-Loan_ID	Unique Loan ID
-Loan_Status	(Target) Loan approved (Y/N)
