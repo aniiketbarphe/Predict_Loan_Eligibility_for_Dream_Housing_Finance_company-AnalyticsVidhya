@@ -12,9 +12,9 @@ Company wants to automate the loan eligibility process (real time) based on cust
 
 
 
-Data Dictionary
+# Data Dictionary
 
-Train file: CSV containing the customers for whom loan eligibility is known as 'Loan_Status'
+# Train file: CSV containing the customers for whom loan eligibility is known as 'Loan_Status'
 
 ![IMG1](https://user-images.githubusercontent.com/84449238/174618243-e46878b9-d18c-423b-b874-2918933b9a4d.JPG)
 
