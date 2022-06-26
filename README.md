@@ -29,3 +29,12 @@ Test file: CSV containing the customer information for whom loan eligibility is 
 Submission file format
 ![IMG3](https://user-images.githubusercontent.com/84449238/174618748-5e0b8a51-1269-4e96-9b3f-363f1ebf1241.JPG)
 
+# Summary
+Best Submission Score: 0.8055555556
+
+Best Model: CatBoost Classifier
+![Rank_Image_26062022](https://user-images.githubusercontent.com/84449238/175821385-d129c837-2181-4e57-b382-be20ff09fd2a.JPG)
+
+Competition Link: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
+
+Rank Scored: 155 out of 75084 participants as on 26 June 2022
