@@ -1,4 +1,5 @@
-![AL_LOAN](https://user-images.githubusercontent.com/84449238/175235097-65f22a5a-29d0-4307-adc1-2a5fdacac08f.JPG)
+![INTRO_IMAGE26062022](https://user-images.githubusercontent.com/84449238/175821328-0552fdb1-67f9-4f3f-9046-04a188367e1e.JPG)
+
 
 
 # Predict_Loan_Eligibility_for_Dream_Housing_Finance_company-AnalyticsVidhya
